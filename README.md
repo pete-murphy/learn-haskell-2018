@@ -13,6 +13,7 @@ Hopefully helpful resources.
 + [NICTA course](https://github.com/data61/fp-course/)
 
 ## Intermediate
++ [Typeclassopedia](https://wiki.haskell.org/Typeclassopedia)
 + [Haskell at work](https://haskell-at-work.com)
 + [Code deconstructed](https://www.youtube.com/watch?v=FEFETKhhq8w&list=PLxj9UAX4Em-Lz5btngxMVZxf_B44GETVz)
 
