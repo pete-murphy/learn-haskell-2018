@@ -1,8 +1,8 @@
 [We Can Solve This](http://sandymaguire.me/) - Sandy Maguire
+
 [in Code](https://blog.jle.im) - Justin Le
 
-[24 Days of GHC Extensions]
-(https://ocharles.org.uk/pages/2014-12-01-24-days-of-ghc-extensions.html)
+[24 Days of GHC Extensions](https://ocharles.org.uk/pages/2014-12-01-24-days-of-ghc-extensions.html)
 
 ## State and Update Monads
 
@@ -12,8 +12,7 @@
 
 [State Monad Comes to Help Sequential Pattern Matching](https://kowainik.github.io/posts/2018-11-18-state-pattern-matching)
 
-[Update Monads: Variation on State Monads]
-(https://chrispenner.ca/posts/update-monad)
+[Update Monads: Variation on State Monads](https://chrispenner.ca/posts/update-monad)
 
 [How to Replace Failure by a Heap of Successes](https://www.schoolofhaskell.com/user/edwardk/heap-of-successes)
 
